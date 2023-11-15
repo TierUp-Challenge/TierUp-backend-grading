@@ -1,4 +1,4 @@
-package org.tierup.grading;
+package com.tierup.judge;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

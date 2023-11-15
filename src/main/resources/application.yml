@@ -3,4 +3,4 @@ spring:
     web-application-type: none
 logging:
   level:
-    org.tierup.grading: debug
+    org.tierup.judge: debug

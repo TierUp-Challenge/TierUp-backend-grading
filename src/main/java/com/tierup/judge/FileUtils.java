@@ -1,4 +1,4 @@
-package org.tierup.grading;
+package com.tierup.judge;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
